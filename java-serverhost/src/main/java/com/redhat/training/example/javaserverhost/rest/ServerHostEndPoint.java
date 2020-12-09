@@ -19,7 +19,7 @@ public class ServerHostEndPoint {
     catch (Exception e) {
        e.printStackTrace();
     }
-    String msg = "AL is running on magic server "+host+" Version 2.0 \n";
+    String msg = "f*k is running on magic server "+host+" Version 2.0 \n";
     return Response.ok(msg).build();
   }
 }
